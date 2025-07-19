@@ -1,4 +1,4 @@
- 👋 Hi, I'm Dmitriy — Full-Stack .NET Developer
+ 👋 Hi, I'm Dmitry — Full-Stack .NET Developer
  ===    
 
 # 📡 Contacts
