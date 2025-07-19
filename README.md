@@ -81,11 +81,18 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&layout=compact&theme=dark)
+<table>
+ <tr>
+  <td>
+   <img title="dzmprt gitHub stats" src="https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dracula&hide_border=true" align="center">
+  </td>
+    <td>
+<img title="Jon LaBelle's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=dracula&hide_border=true" align="center">
+  </td>
+ </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&layout=compact&theme=dark)
-
-### Repositories
+# 🚀 Interesting repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=dark)](https://github.com/dzmprt/MitMediator)
 
