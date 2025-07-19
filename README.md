@@ -94,6 +94,6 @@
 
 # 🚀 Interesting repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=dark)](https://github.com/dzmprt/MitMediator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=dracula&hide_border=true)](https://github.com/dzmprt/MitMediator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator.AutoApi&theme=dark)](https://github.com/dzmprt/MitMediator.AutoApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator.AutoApi&theme=dracula&hide_border=true)](https://github.com/dzmprt/MitMediator.AutoApi)
