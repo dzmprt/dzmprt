@@ -1,15 +1,17 @@
  👋 Hi, I'm Dmitry — Full-Stack .NET Developer
  ===    
 
-# 📡 Contacts
+## 📡 Contacts
 
-### 💼 LinkedIn: [linkedin.com/in/dprotko](https://linkedin.com/in/dprotko)
-### 📨 Email: dzmitrypratsko@gmail.com
-### 💬 Telegram: [@dzmpr](https://t.me/dzmpr)
+💼 LinkedIn: [linkedin.com/in/dprotko](https://linkedin.com/in/dprotko)
 
-# 💻 Tech Stack
+📨 Email: dzmitrypratsko@gmail.com
 
-### Extensive experience
+💬 Telegram: [@dzmpr](https://t.me/dzmpr)
+
+## 💻 Tech Stack
+
+Extensive experience
 
 ![C#](https://img.shields.io/badge/c%23-blue?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/js-blue.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -55,23 +57,21 @@
 ![postman](https://img.shields.io/badge/postman-black?logo=postman&logoColor=fff&style=for-the-badge)
 ![swagger](https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=fff&style=for-the-badge)
 
-
-
-### Also have experience
+Also have experience
 
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/go-blue.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-orange.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Fluent UI](https://img.shields.io/badge/Fluent%20UI-orange.svg?style=for-the-badge&logo=css&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![WebForms](https://img.shields.io/badge/WebForms-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![UWP](https://img.shields.io/badge/UWP-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-blueviolet?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-orange.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Fluent UI](https://img.shields.io/badge/Fluent%20UI-orange.svg?style=for-the-badge&logo=css&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-orange?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-green.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-darkblue.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-darkblue.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -79,7 +79,7 @@
 ![Azure](https://img.shields.io/badge/azure-darkblue?logo=icloud&logoColor=fff&style=for-the-badge)
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table>
  <tr>
@@ -92,7 +92,7 @@
  </tr>
 </table>
 
-# 🚀 Interesting repositories
+## 🚀 Interesting repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=dracula&hide_border=true)](https://github.com/dzmprt/MitMediator)
 
