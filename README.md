@@ -48,14 +48,14 @@ Extensive experience
 ![lm studio](https://img.shields.io/badge/lm%20studio-violet.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![continue](https://img.shields.io/badge/continue-violet.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-![Visual studio](https://img.shields.io/badge/visual%20studio-black.svg?style=for-the-badge&logo=.net&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs%20code-black.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Rider](https://img.shields.io/badge/rider-black.svg?style=for-the-badge&logo=rider&logoColor=white)
-![nuget](https://img.shields.io/badge/nuget-black.svg?style=for-the-badge&logo=nuget&logoColor=white)
-![npm](https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-black?logo=ubuntu&logoColor=fff&style=for-the-badge)
-![postman](https://img.shields.io/badge/postman-black?logo=postman&logoColor=fff&style=for-the-badge)
-![swagger](https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=fff&style=for-the-badge)
+![Visual studio](https://img.shields.io/badge/visual%20studio-gray.svg?style=for-the-badge&logo=.net&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs%20code-gray.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Rider](https://img.shields.io/badge/rider-gray.svg?style=for-the-badge&logo=rider&logoColor=white)
+![nuget](https://img.shields.io/badge/nuget-gray.svg?style=for-the-badge&logo=nuget&logoColor=white)
+![npm](https://img.shields.io/badge/npm-gray.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-gray?logo=ubuntu&logoColor=fff&style=for-the-badge)
+![postman](https://img.shields.io/badge/postman-gray?logo=postman&logoColor=fff&style=for-the-badge)
+![swagger](https://img.shields.io/badge/swagger-gray?logo=swagger&logoColor=fff&style=for-the-badge)
 
 Also have experience
 
