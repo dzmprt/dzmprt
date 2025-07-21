@@ -81,19 +81,13 @@ Also have experience
 
 ## 📊 GitHub Stats
 
-<table>
- <tr>
-  <td>
-   <img title="dzmprt gitHub stats" src="https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&theme=dracula&hide_border=true" align="center">
-  </td>
-    <td>
-<img title="Jon LaBelle's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=dracula&hide_border=true" align="center">
-  </td>
- </tr>
-</table>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&theme=react&hide_border=true&hide_rank=true&include_all_commits=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=react&hide_border=true) |
+|-|-|
 
 ## 🚀 Interesting repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=dracula&hide_border=true)](https://github.com/dzmprt/MitMediator)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=react&hide_border=true)](https://github.com/dzmprt/MitMediator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator.AutoApi&theme=react&hide_border=true)](https://github.com/dzmprt/MitMediator.AutoApi) |
+|-|-|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator.AutoApi&theme=dracula&hide_border=true)](https://github.com/dzmprt/MitMediator.AutoApi)
+
+
