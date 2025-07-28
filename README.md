@@ -81,13 +81,7 @@ Also have experience
 
 ## 📊 GitHub Stats
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&theme=react&hide_border=true&hide_rank=true&include_all_commits=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=react&hide_border=true) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&theme=react&hide_border=true&hide_rank=true&include_all_commits=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=react&hide_border=true) |
 |-|-|
-
-## 🚀 Interesting repositories
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator&theme=react&hide_border=true)](https://github.com/dzmprt/MitMediator) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzmprt&repo=MitMediator.AutoApi&theme=react&hide_border=true)](https://github.com/dzmprt/MitMediator.AutoApi) |
-|-|-|
-
 
 
