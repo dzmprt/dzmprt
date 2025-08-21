@@ -81,7 +81,7 @@ Also have experience
 
 ## 📊 GitHub Stats
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&theme=react&hide_border=true&hide_rank=true&include_all_commits=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=react&hide_border=true) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzmprt&show_icons=true&theme=react&hide_border=true&hide_rank=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dzmprt&langs_count=8&layout=compact&theme=react&hide_border=true) |
 |-|-|
 
 
