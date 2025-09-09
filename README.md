@@ -1,15 +1,15 @@
  👋 Hi, I'm Dmitry — Full-Stack .NET Developer
  ===    
 
-## 📡 Contacts
+## Contacts
 
-💼 LinkedIn: [linkedin.com/in/dprotko](https://linkedin.com/in/dprotko)
+LinkedIn: [linkedin.com/in/dprotko](https://linkedin.com/in/dprotko)
 
-📨 Email: dzmitrypratsko@gmail.com
+Email: dzmitrypratsko@gmail.com
 
-💬 Telegram: [@dzmpr](https://t.me/dzmpr)
+Telegram: [@dzmpr](https://t.me/dzmpr)
 
-## 💻 Tech Stack
+## Tech Stack
 
 Extensive experience
 
